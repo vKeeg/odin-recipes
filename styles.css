@@ -1,0 +1,105 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+/* Index */
+
+.odin-recipes {
+    font-size: x-large;
+    text-align: center;
+}
+
+.recipes {
+    font-size: x-large;
+}
+
+.pic {
+    position: relative;
+
+}
+
+.full {
+    background-color: lightskyblue;
+}
+
+/* Peanut Butter Cookies */
+
+.cookiepage {
+    background-color: beige;
+}
+
+.pbcookies {
+    text-align: center;
+    font-size: x-large;
+}
+
+.cookiedesc {
+    font-size: xx-large;
+}
+
+.cookieing {
+    font-size: xx-large;
+}
+
+.cookiesteps {
+    font-size: xx-large;
+}
+
+.list {
+    padding-bottom: 2%;
+}
+
+/* Tartlets */
+
+.tartletpage {
+    background-color: coral;
+}
+
+.tartlettitle {
+    text-align: center;
+    font-size: x-large;
+}
+
+.tartletdesc {
+    font-size: xx-large;
+}
+
+.tartleting {
+    font-size: xx-large;
+}
+
+.tartletsteps {
+    font-size: xx-large;
+}
+
+.tartletlist {
+    padding-bottom: 2%;
+}
+
+/* Muffins */
+
+.muffinpage {
+    background-color: lightgreen;
+}
+
+.muffintitle {
+    text-align: center;
+    font-size: x-large;
+}
+
+.muffindesc {
+    font-size: xx-large;
+}
+
+.muffining {
+    font-size: xx-large;
+}
+
+.muffinsteps {
+    font-size: xx-large;
+}
+
+.muffinlist {
+    padding-bottom: 2%;
+}
